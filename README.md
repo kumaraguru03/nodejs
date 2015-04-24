@@ -17,7 +17,6 @@ My git email is kumaraguru03@gmail.com, and my walmart email is kvijayakumar@wal
    * proxying to destination url (configurable via `-H "x-destination-url: xxx"`)
    * using CLI params using yargs
    * logging to process.stdout, and file
-   * 
-   ## Gif Walkthrough
-
-   https://github.com/kumaraguru03/nodejs/blob/master/prework.gif
+  
+## Gif Walkthrough
+https://github.com/kumaraguru03/nodejs/blob/master/prework.gif
